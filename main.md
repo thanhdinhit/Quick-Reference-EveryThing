@@ -75,27 +75,117 @@ Here are some cheatsheets and quick references contributed by open source angels
 <details>
 <summary>Python</summary>
 
+- [NumPy](main.md): NumPy is the fundamental package for scientific computing with Python. This cheat sheet is a quick reference for NumPy beginners.
+
 </details>
 <details>
 <summary>Database</summary>
+
+- [Neo4j](main.md): A Neo4j cheat sheet with getting started resources and information on how to query the database with Cypher.
+- [PostgreSQL](main.md): The PostgreSQL cheat sheet provides you with the common PostgreSQL commands and statements.
+- [Redis](main.md): This is a Redis quick reference cheat sheet that lists examples of redis commands
+- [MySQL](main.md): The SQL cheat sheet provides you with the most commonly used SQL statements for your reference.
 
 </details>
 <details>
 <summary>Keyboard Shortcuts</summary>
 
+- [Adobe Photoshop](main.md): A visual cheat-sheet for the 283 keyboard shortcuts found in Adobe Photoshop
+- [Apex Legends](main.md): A visual cheat-sheet for the 27 default keyboard shortcuts found in Apex Legends
+- [Figma](main.md): A visual cheat-sheet for the 119 keyboard shortcuts found in Figma
+- [Microsoft Teams](main.md): A visual cheat-sheet for the 38 keyboard shortcuts found in Microsoft Teams
+- [TablePlus](main.md): A visual cheat-sheet for the 34 keyboard shortcuts found in TablePlus
+- [Bear](main.md): A visual cheat-sheet for the 66 keyboard shortcuts found in Bear. This application is MacOS-only.
+- [Feedly](main.md): A visual cheat-sheet for the 25 keyboard shortcuts found on the Feedly app
+- [FileZilla](main.md): A visual cheat-sheet for the 30 keyboard shortcuts found on the FileZilla program
+- [Reddit](main.md): A visual cheat-sheet for the 17 keyboard shortcuts found on Reddit.com
+- [Slack](main.md): A visual cheat-sheet for the 62 keyboard shortcuts found in Slack
+- [SoundCloud](main.md): A visual cheat-sheet for the 22 keyboard shortcuts found on SoundCloud
+- [Twitter](main.md): A visual cheat-sheet for the 26 keyboard shortcuts found on Twitter
+- [Android Studio](main.md): A visual cheat-sheet for the 130 keyboard shortcuts found in the Android Studio software
+- [Github](main.md): A visual cheat-sheet for the 80 keyboard shortcuts found on Github.com
+- [Shopify](main.md): A visual cheat-sheet for the 50 keyboard shortcuts found on the Shopify website
+- [Zoom](main.md): A visual cheat-sheet for the 32 keyboard shortcuts found in Zoom. These shortcuts are for MacOS, for Windows visit /zoom-windows.
+- [Adobe XD](main.md): A visual cheat-sheet for the 97 keyboard shortcuts found in Adobe XD
+- [Firefox](main.md): A visual cheat-sheet for the 116 keyboard shortcuts found in Firefox
+- [PhpStorm](main.md): A visual cheat-sheet for the 96 keyboard shortcuts found in JetBrains PhpStorm
+- [Postman](main.md): A visual cheat-sheet for the 23 keyboard shortcuts found in Postman
+- [Webflow](main.md): A visual cheat-sheet for the 41 keyboard shortcuts found in Webflow
+- [Adobe Lightroom CC](main.md): A visual cheat-sheet for the 251 keyboard shortcuts found in Adobe Lightroom CC
+- [1Password](main.md): A cheat sheet for 1password's keyboard shortcuts in Mac, Windows, iOS, Linux.
+- [Affinity Designe](main.md)r: A visual cheat-sheet for the 108 keyboard shortcuts found in Affinity Designer
+- [Pocket](main.md): A visual cheat-sheet for the 36 keyboard shortcuts found on Pocket for Web
+- [Trello](main.md): A visual cheat-sheet for the 29 keyboard shortcuts found on Trello
+- [Audacity](main.md): A visual cheat-sheet for the 135 default keyboard shortcuts found in Audacity
+- [Framer](main.md) X: A visual cheat-sheet for the 45 keyboard shortcuts found in Framer X. This application is MacOS-only.
+- [Google Drive](main.md): A visual cheat-sheet for the 54 keyboard shortcuts found in Google Drive on the web
+- [PuTTy](main.md): A visual cheat-sheet for the 32 keyboard shortcuts found on the PuTTy app
+- [Sequel Pro](main.md): A visual cheat-sheet for the 71 keyboard shortcuts found in Sequel Pro. This application is MacOS-only.
+- [Apple Musi](main.md)c: A visual cheat-sheet for the 62 keyboard shortcuts found in the Apple Music app. This application is MacOS-only.
+- [Blender](main.md): A visual cheat-sheet for the 187 keyboard shortcuts found in Blender
+- [Obsidian](main.md): A visual cheat-sheet for the 17 keyboard shortcuts found in the Obsidian knowledge base app.
+- [Telegram Desktop](main.md): A visual cheat-sheet for the 37 keyboard shortcuts found on the Telegram Desktop app
+- [YouTube](main.md): A visual cheat-sheet for the 18 keyboard shortcuts found on YouTube.com
+- [Airtable](main.md): A visual cheat-sheet for the 36 keyboard shortcuts found in Airtable
+- [Bitbucket](main.md): A visual cheat-sheet for the 35 keyboard shortcuts found on Bitbucket
+- [Fortnite](main.md): A visual cheat-sheet for the 26 default keyboard shortcuts found in Fortnite
+- [Gmail](main.md): A visual cheat-sheet for the 90 keyboard shortcuts found on Gmail
+- [Sketch](main.md): A visual cheat-sheet for the 149 keyboard shortcuts found in Sketch. This application is MacOS-only.
+- [Spotify](main.md): A visual cheat-sheet for the 23 keyboard shortcuts found in Spotify
+- [Brave Browser](main.md): A visual cheat-sheet for the 64 keyboard shortcuts found in the Brave browser
+- [KanbanMail](main.md): A visual cheat-sheet for the 29 keyboard shortcuts found in KanbanMail
+- [Microsoft Outlook](main.md): A visual cheat-sheet for the 210 keyboard shortcuts found in Microsoft Outlook
+- [Principle](main.md): A visual cheat-sheet for the 30 keyboard shortcuts found in Principle. This application is MacOS-only.
+- [Skype](main.md): A visual cheat-sheet for the 31 keyboard shortcuts found in Skype
+- [Arduino IDE](main.md): A visual cheat-sheet for the 12 keyboard shortcuts found in the Arduino IDE
+- [Asana](main.md): A visual cheat-sheet for the 40 keyboard shortcuts found in Asana
+- [Code Editor for iOS](main.md): A visual cheat-sheet for the 43 keyboard shortcuts found in the Code Editor for iOS app. This application is MacOS-only.
+- [Jira](main.md): A visual cheat-sheet for the 44 keyboard shortcuts found in Jira
+- [Quip.com](main.md): A visual cheat-sheet for the 52 keyboard shortcuts found in Quip
+- [WordPress](main.md): A visual cheat-sheet for the 34 keyboard shortcuts found in the WordPress visual editor
+- [Chrome Developer Tools](main.md): A visual cheat-sheet for the 56 keyboard shortcuts found in Chrome's Developer Tools
+- [GIMP](main.md): A visual cheat-sheet for the 97 keyboard shortcuts found in GIMP
+- [Google Chrome](main.md): A visual cheat-sheet for the 65 keyboard shortcuts found in Google Chrome
+- [Todoist](main.md): A visual cheat-sheet for the 37 keyboard shortcuts found in Todoist
+- [TickTick](main.md): A visual cheat-sheet for the 25 keyboard shortcuts found in the TickTick desktop app
+- [VLC Player](main.md): A visual cheat-sheet for the 82 keyboard shortcuts found in VLC Player
+- [Missive](main.md): A visual cheat-sheet for the 83 keyboard shortcuts found in Missive
+- [Origami Studio](main.md): A visual cheat-sheet for the 71 keyboard shortcuts found in Origami Studio. This application is MacOS-only.
+- [Sublime Text](main.md): A visual cheat-sheet for the 49 keyboard shortcuts found in Sublime Text
+- [Transmit](main.md): A visual cheat-sheet for the 62 keyboard shortcuts found in Transmit. This application is MacOS-only.
+- [Affinity Photo](main.md): A visual cheat-sheet for the 177 keyboard shortcuts found in Affinity Photo
+- [Monday.com](main.md): A visual cheat-sheet for the 24 keyboard shortcuts found on Monday.com
+- [Proto.io](main.md): A visual cheat-sheet for the 48 keyboard shortcuts found in Proto.io
+- [Superhuman](main.md): A visual cheat-sheet for the 105 keyboard shortcuts found in Superhuman. This application is MacOS-only.
+- [Vivaldi Browser](main.md): A visual cheat-sheet for the 69 default keyboard shortcuts found in the Vivaldi browser
+- [Finder](main.md): A visual cheat-sheet for the 55 keyboard shortcuts found in Finder. This application is part of MacOS.
+- [GitLab](main.md): A visual cheat-sheet for the 58 keyboard shortcuts found in GitLab
+- [Guitar Pro](main.md): A visual cheat-sheet for the 129 keyboard shortcuts found in Guitar Pro
+- [Roam Research](main.md): A visual cheat-sheet for the 45 keyboard shortcuts found on Roam Research
+- [SketchUp Pro](main.md): A visual cheat-sheet for the 135 default keyboard shortcuts found in SketchUp Pro
+- [Unity 3D](main.md): A visual cheat-sheet for the 50 keyboard shortcuts found in Unity 3D
+- [IntelliJ IDEA](main.md): IntelliJ IDEA is a very good Java IDE, most of its commands have shortcuts to keep your hands from leaving the keyboard
+- [WebStorm](main.md): This quick reference cheat sheet lists the default keyboard shortcuts for WebStorm running on Windows/Linux or Mac
+
 </details>
 <details>
 <summary>Shaders</summary>
+
+- [Unity Shader Graph](main.md): This is a visual cheat-sheet for the Unity Shader Graph. This tool is used to create custom shaders material in Unity, a popular game engine.
 
 </details>
 <details>
 <summary>Other</summary>
 
+- [Google Search](main.md): This quick reference cheat sheet lists of Google advanced search operators.
+- [ASCII Code](main.md): This cheat sheet is a complete list of ASCII Code Table with their numbers and names.
+- [Aspect Ratio](main.md): This cheat sheet lists some common aspect ratios and their pixel resolutions. Always confirm your final delivery ratio when shooting.
+- [HTML Characters Entities](main.md): This cheat sheet is a complete list of HTML entities with their numbers and names. Also included is a full list of ASCII characters that can be represented in HTML.
+- [ISO 639-1 Language Code](main.md): This is a list of the ISO language codes that conform to the ISO 639-1 standard, it provide reference for multi-language website.
+- [Resolutions](main.md): This cheat sheet lists screen sizes, viewport size and CSS media queries for popular Phones, Tablets, Laptops and Watches
+- [HTTP Status Code](main.md): The http status codes cheat sheet. A quick reference to every HTTP status code.
+- [Emoji](main.md): Some of the emoji codes are not super easy to remember, so here is a little cheat sheet.
+- [CheatSheets](main.md): This is the magic syntax variant manual that you can use on CheatSheets.zip, It's a good practice for contributors.
+- [MIME types](main.md): This cheat sheet lists some common MIME types for the Web. You can look in the IANA/MIME Media Types registry which contains all registered MIME types.
+
 </details>
-
-## Mục 3: Kết luận
-Tóm tắt các ý chính và kết luận.
-
-## Mục 4: Tài liệu Tham Khảo
-- [Liên kết 1](https://example.com)
-- [Liên kết 2](https://example.com)
