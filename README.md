@@ -1,2 +1,2 @@
 ## Quick-Reference-EveryThing
-GO TO file [main.md](README.md).
+GO TO file [main.md](main.md).
