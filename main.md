@@ -1,12 +1,18 @@
-# Tiêu đề Chính
+# Quick-Reference-EveryThing
 
-## Mục 1: Giới thiệu
-Nội dung giới thiệu về chủ đề.
+## Introduction
+Here are some cheatsheets and quick references contributed by open source angels.
 
-## Mục 2: Nội dung Chính
-- **Điểm 1:** Mô tả chi tiết về điểm 1.
-- **Điểm 2:** Mô tả chi tiết về điểm 2.
-- **Điểm 3:** Mô tả chi tiết về điểm 3.
+## Reference provides cheat sheets for the following:
+- **Programming:**
++ [Perl.md](Perl.md): The perl quick reference cheat sheet that aims at providing help on writing basic syntax and methods.
+- **Toolkit:**
+- **Linux Command:**
+- **Python:** 
+- **Database:** 
+- **Keyboard Shortcuts:** 
+- **Shaders:** 
+- **Other:** 
 
 ## Mục 3: Kết luận
 Tóm tắt các ý chính và kết luận.
