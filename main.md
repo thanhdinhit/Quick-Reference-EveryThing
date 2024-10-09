@@ -35,12 +35,41 @@ Here are some cheatsheets and quick references contributed by open source angels
 	+ [Markdown](main.md): This is a quick reference cheat sheet to the Markdown syntax.
 	+ [Bash](main.md): This is a quick reference cheat sheet to getting started with Linux bash shell scripting.
 - **Toolkit:**
+	+ [ChatGPT](main.md): This cheat sheet lists out prompts and tips from all over the world on how to use ChatGPT effectively
+	+ [VSCode](main.md): This VSCode (Visual Studio Code) quick reference cheat sheet shows its keyboard shortcuts and commands.
+	+ [Mitmproxy](main.md): Mitmproxy is a free and open source interactive HTTPS proxy. This is a quick reference cheat sheet to the Mitmproxy.
+	+ [XPath](main.md): This is an XPath selectors cheat sheet, which lists commonly used XPath positioning methods and CSS selectors
+	+ [Emacs](main.md): Emacs is the extensible, customizable, self-documenting real time display text editor. This reference was made for Emacs 27.
+	+ [Emmet](main.md): Emmet is a web-developer’s toolkit for boosting HTML & CSS code writing, which allows you to write large HTML code blocks at speed of light using well-known CSS selectors.
+	+ [RegEX](main.md): A quick reference for regular expressions (regex), including symbols, ranges, grouping, assertions and some sample patterns to get you started.
+	+ [Vim](main.md): A useful collection of Vim 8.2 quick reference cheat sheets to help you learn vim editor faster.
 - **Linux Command:**
+	+ [Curl](main.md): This Curl cheat sheet contains commands and examples of some common Curl tricks.
+	+ [PM2](main.md): [PM2] is a daemon process manager that will help you manage and keep your application online. Getting started with PM2 is straightforward, it is offered as a simple and intuitive CLI.
+	+ [Chmod](main.md): This quick reference cheat sheet provides a brief overview of file permissions, and the operation of the chmod command
+	+ [Tmux](main.md): The tmux cheat sheet quick reference of most commonly used shortcuts and commands
+	+ [Lsof](main.md): This quick reference cheat sheet provides various for using lsof command.
+	+ [SSH](main.md): This quick reference cheat sheet provides various for using SSH.
+	+ [Netstat](main.md): This quick reference cheat sheet provides various for using netstat command.
+	+ [Screen](main.md): This is a quick reference guide cheat sheet for the screen command.
+	+ [Awk](main.md): This is a one page quick reference cheat sheet to the GNU awk, which covers commonly used awk expressions and commands.
+	+ [Find](main.md): This is a quick reference list of cheat sheet for Linux find command, contains common options and examples.
+	+ [Sed](main.md): Sed is a stream editor, this sed cheat sheet contains sed commands and some common sed tricks.
+	+ [Cron](main.md): Cron is most suitable for scheduling repetitive tasks. Scheduling one-time tasks can be accomplished using the associated at utility.
+	+ [Git](main.md): This cheat sheet summarizes commonly used Git command line instructions for quick reference.
+	+ [Grep](main.md): This cheat sheet is intended to be a quick reminder for the main concepts involved in using the command line program grep and assumes you already understand its usage.
+	+ [Netcat](main.md): This cheat sheet provides various for using netcat on both Linux and Unix.
+	+ [Taskset](main.md): This quick reference cheat sheet for tasket command.
 - **Python:** 
 - **Database:** 
 - **Keyboard Shortcuts:** 
 - **Shaders:** 
-- **Other:** 
+- **Other:**
+
+<details>
+<summary>Programming</summary>
+
+- [Perl](https://cheatsheets.zip/perl): The perl quick reference cheat sheet that aims at providing help on writing basic syntax and methods.
 
 ## Mục 3: Kết luận
 Tóm tắt các ý chính và kết luận.
