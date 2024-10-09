@@ -6,6 +6,7 @@ Here are some cheatsheets and quick references contributed by open source angels
 ## Reference provides cheat sheets for the following:
 <details>
 <summary>Programming</summary>
+
 - [Perl](main.md): The perl quick reference cheat sheet that aims at providing help on writing basic syntax and methods.
 - [Kubernetes](main.md): This page contains a list of commonly used kubectl commands and flags.
 - [ES6](main.md): A quick reference cheat sheet of what's new in JavaScript for ES2015, ES2016, ES2017, ES2018 and beyond
@@ -35,6 +36,7 @@ Here are some cheatsheets and quick references contributed by open source angels
 - [Go](main.md): This cheat sheet provided basic syntax and methods to help you using Go.
 - [Markdown](main.md): This is a quick reference cheat sheet to the Markdown syntax.
 - [Bash](main.md): This is a quick reference cheat sheet to getting started with Linux bash shell scripting.
+
 </details>
 - **Toolkit:**
 	+ [ChatGPT](main.md): This cheat sheet lists out prompts and tips from all over the world on how to use ChatGPT effectively
