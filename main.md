@@ -38,7 +38,9 @@ Here are some cheatsheets and quick references contributed by open source angels
 - [Bash](main.md): This is a quick reference cheat sheet to getting started with Linux bash shell scripting.
 
 </details>
-- **Toolkit:**
+<details>
+<summary>Toolkit</summary>
+
 	+ [ChatGPT](main.md): This cheat sheet lists out prompts and tips from all over the world on how to use ChatGPT effectively
 	+ [VSCode](main.md): This VSCode (Visual Studio Code) quick reference cheat sheet shows its keyboard shortcuts and commands.
 	+ [Mitmproxy](main.md): Mitmproxy is a free and open source interactive HTTPS proxy. This is a quick reference cheat sheet to the Mitmproxy.
@@ -47,7 +49,11 @@ Here are some cheatsheets and quick references contributed by open source angels
 	+ [Emmet](main.md): Emmet is a web-developer’s toolkit for boosting HTML & CSS code writing, which allows you to write large HTML code blocks at speed of light using well-known CSS selectors.
 	+ [RegEX](main.md): A quick reference for regular expressions (regex), including symbols, ranges, grouping, assertions and some sample patterns to get you started.
 	+ [Vim](main.md): A useful collection of Vim 8.2 quick reference cheat sheets to help you learn vim editor faster.
-- **Linux Command:**
+	
+</details>
+<details>
+<summary>Linux Command</summary>
+
 	+ [Curl](main.md): This Curl cheat sheet contains commands and examples of some common Curl tricks.
 	+ [PM2](main.md): [PM2] is a daemon process manager that will help you manage and keep your application online. Getting started with PM2 is straightforward, it is offered as a simple and intuitive CLI.
 	+ [Chmod](main.md): This quick reference cheat sheet provides a brief overview of file permissions, and the operation of the chmod command
@@ -64,6 +70,8 @@ Here are some cheatsheets and quick references contributed by open source angels
 	+ [Grep](main.md): This cheat sheet is intended to be a quick reminder for the main concepts involved in using the command line program grep and assumes you already understand its usage.
 	+ [Netcat](main.md): This cheat sheet provides various for using netcat on both Linux and Unix.
 	+ [Taskset](main.md): This quick reference cheat sheet for tasket command.
+
+</details>
 - **Python:** 
 - **Database:** 
 - **Keyboard Shortcuts:** 
